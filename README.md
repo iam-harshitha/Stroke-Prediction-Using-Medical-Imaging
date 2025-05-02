@@ -1,7 +1,7 @@
 # Stroke-Prediction-Using-Medical-Imaging
 
 ## Problem statement - 
-The main goal of the project is to classify the strokes in different parts of brain namely glioma, meningioma, pituitary, no tumer.
+The main goal of the project is to classify the strokes in different parts of brain namely glioma, meningioma, pituitary, no tumor.
 ## Dataset - https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 This dataset contains 7023 images of human brain MRI images which are classified into 4 classes: glioma - meningioma - no tumor and pituitary.
 
